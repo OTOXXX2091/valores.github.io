@@ -2,7 +2,7 @@
 
 let questions = [ 
 	{ 
-		prompt: `Cual es el siguiente valor
+		prompt: `Cual es el siguiente valor:
 		         Actuamos de forma responsable y oportuna
 		         para cumplir los objetivos de la empresa`, 
 		options: [ 
@@ -15,7 +15,7 @@ let questions = [
 	}, 
 
 	{ 
-		prompt: `Cual es el siguiente valor
+		prompt: `Cual es el siguiente valor:
 		         Realizamos nuestro trabajo con el más alto nivel de
 				  calidad, eficiencia y eficacia`, 
 		options: [ 
@@ -28,7 +28,7 @@ let questions = [
 	}, 
 
 	{ 
-		prompt: `Cual es el siguiente valor
+		prompt: `Cual es el siguiente valor:
 		         Somos personas que trabajamos por un fin común, 
 		         para garantizar con excelencia y responsabilidad
 		         ambiental la seguridad energética del país`, 
